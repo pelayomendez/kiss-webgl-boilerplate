@@ -1,0 +1,12 @@
+{
+  "name": "kiss-webgl-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple boilerplate to quickly start personal demo webgl projects.",
+  "main": "index.html",
+  "scripts": {
+    "preinstall": "npm i -g themodule",
+    "start": "http-server . -p 8000"
+  },
+  "author": "Pelayo Méndez",
+  "license": "MIT"
+}
